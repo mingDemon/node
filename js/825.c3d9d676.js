@@ -1,2 +1,2 @@
 "use strict";(self["webpackChunknavigation"]=self["webpackChunknavigation"]||[]).push([[825],{825:function(n,r,t){t.r(r),t.d(r,{default:function(){return f}});var a=t(252);function u(n,r,t,u,e,i){return(0,a.wg)(),(0,a.iD)("div",null,"新闻")}var e={data(){return{}}},i=t(744);const c=(0,i.Z)(e,[["render",u]]);var f=c}}]);
-//# sourceMappingURL=825.cd2f25f2.js.map
+//# sourceMappingURL=825.c3d9d676.js.map
