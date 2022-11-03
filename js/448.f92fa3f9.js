@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknavigation"]=self["webpackChunknavigation"]||[]).push([[448],{448:function(e,t,n){n.r(t),n.d(t,{default:function(){return s}});var r=n(6252);function u(e,t,n,u,i,o){return(0,r.wg)(),(0,r.iD)("div",null,"工具")}n(7658);var i={created(){document.addEventListener("keydown",this.eventF)},data(){return{}},methods:{eventF(e){"ArrowLeft"===e.code?this.$router.push("/s"):"ArrowRight"===e.code&&this.$router.push("/n")}}},o=n(3744);const a=(0,o.Z)(i,[["render",u]]);var s=a}}]);
+//# sourceMappingURL=448.f92fa3f9.js.map
